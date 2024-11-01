@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Device Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Device Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">17e6835bd12302104f34ba60d8b7c1f4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 02:49:50</sys_created_on>
+        <sys_id>38c6ed8283a5d210546cc7e0deaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request</sys_name>
+        <sys_package display_value="OrderManagement" source="x_375765_ordermana">8ad52d828365d210546cc7e0deaad3d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OrderManagement">8ad52d828365d210546cc7e0deaad3d6</sys_scope>
+        <sys_update_name>sys_wizard_answer_38c6ed8283a5d210546cc7e0deaad392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 02:49:50</sys_updated_on>
+        <table/>
+        <target_url>x_375765_ordermana_device_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
