@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_description" label="Business Justification" language="en" table="x_375765_ordermana_device_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <help/>
+            <hint/>
+            <label>Business Justification</label>
+            <language>en</language>
+            <name>x_375765_ordermana_device_request</name>
+            <plural>Business Justifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-02 04:16:40</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Business Justification</sys_name>
+            <sys_package display_value="OrderManagement" source="x_375765_ordermana">8ad52d828365d210546cc7e0deaad3d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OrderManagement">8ad52d828365d210546cc7e0deaad3d6</sys_scope>
+            <sys_update_name>sys_documentation_x_375765_ordermana_device_request_u_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-11 23:59:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
