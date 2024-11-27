@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6cc6ed8283a5d210546cc7e0deaad360" extends="task" label="Device Request" max_length="40" name="x_375765_ordermana_device_request" type="collection">
+        <element attributes="omit_sys_original=true" label="Total cost" max_length="20" name="total_cost" read_only="true" type="currency"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_device_price" read_only="true" type="price"/>
         <element attributes="edge_encryption_enabled=true" label="Warranty Expiration" max_length="40" name="u_warranty_expiration" read_only="true" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Quantity" mandatory="true" max_length="40" name="u_quantity" type="integer"/>
